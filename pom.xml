@@ -22,9 +22,9 @@
     </prerequisites>
 
     <scm>
-        <connection>https://github.com/cismet/cismet-commons.git</connection>
-        <developerConnection>scm:git:git@github.com:cismet/cismet-commons.git</developerConnection>
-        <url>https://github.com/cismet/cismet-commons</url>
+        <connection>https://github.com/cismet/cismap-scale-generator.git</connection>
+        <developerConnection>scm:git:git@github.com:cismet/cismap-scale-generator.git</developerConnection>
+        <url>https://github.com/cismet/cismap-scale-generator</url>
     </scm>
 
     <repositories>
