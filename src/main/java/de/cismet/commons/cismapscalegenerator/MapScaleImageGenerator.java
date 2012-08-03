@@ -5,7 +5,7 @@
 *              ... and it just works.
 *
 ****************************************************/
-package de.cismet.cismap.scaleimageprovider;
+package de.cismet.commons.cismapscalegenerator;
 
 import org.apache.log4j.Logger;
 
@@ -25,7 +25,7 @@ import java.util.List;
  * @author   Benjamin Friedrich (benjamin.friedrich@cismet.de)
  * @version  $Revision$, $Date$
  */
-public final class ScaleImageGenerator {
+public final class MapScaleImageGenerator {
 
     //~ Static fields/initializers ---------------------------------------------
 
@@ -48,14 +48,14 @@ public final class ScaleImageGenerator {
 
     private static final double JAVA_DEFAULT_RESOLUTION = 72.0; // Java default resoultion in DPI
 
-    private static final Logger LOG = Logger.getLogger(ScaleImageGenerator.class);
+    private static final Logger LOG = Logger.getLogger(MapScaleImageGenerator.class);
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Avoids creation of a new ScaleImageGenerator object.
+     * Avoids creation of a new MapScaleImageGenerator object.
      */
-    private ScaleImageGenerator() {
+    private MapScaleImageGenerator() {
     }
 
     //~ Methods ----------------------------------------------------------------
