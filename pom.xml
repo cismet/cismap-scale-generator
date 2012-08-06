@@ -14,7 +14,7 @@
     <version>2.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Cismap Scale Image Generator</name>
+    <name>cismap Scale Image Generator</name>
     <description>!!! description pending !!!</description>
 
     <prerequisites>
