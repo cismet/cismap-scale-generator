@@ -25,7 +25,7 @@
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/switchonproject/cismap-scale-generator/issues</url>
+        <url>https://github.com/cismet/cismap-scale-generator/issues</url>
     </issueManagement>
     
     <ciManagement>
