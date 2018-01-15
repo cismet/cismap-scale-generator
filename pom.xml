@@ -5,7 +5,7 @@
     <parent>
         <groupId>de.cismet</groupId>
         <artifactId>cismet-parent</artifactId>
-        <version>5.0</version>
+        <version>6.0</version>
     </parent>
 
     <groupId>de.cismet.commons</groupId>
