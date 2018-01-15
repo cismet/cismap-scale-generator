@@ -10,7 +10,7 @@
 
     <groupId>de.cismet.commons</groupId>
     <artifactId>cismap-scale-generator</artifactId>
-    <version>5.1-SNAPSHOT</version>
+    <version>6.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>cismap Scale Image Generator</name>
@@ -39,7 +39,7 @@
             <dependency>
                 <groupId>de.cismet</groupId>
                 <artifactId>cismet-ext-bom</artifactId>
-                <version>5.0</version>
+                <version>6.0</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
