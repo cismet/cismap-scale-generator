@@ -5,12 +5,12 @@
     <parent>
         <groupId>de.cismet</groupId>
         <artifactId>cismet-parent</artifactId>
-        <version>8.0</version>
+        <version>9.0</version>
     </parent>
 
     <groupId>de.cismet.commons</groupId>
     <artifactId>cismap-scale-generator</artifactId>
-    <version>8.0</version>
+    <version>9.0</version>
     <packaging>jar</packaging>
 
     <name>cismap Scale Image Generator</name>
@@ -20,7 +20,7 @@
         <connection>https://github.com/cismet/cismap-scale-generator.git</connection>
         <developerConnection>scm:git:git@github.com:cismet/cismap-scale-generator.git</developerConnection>
         <url>https://github.com/cismet/cismap-scale-generator</url>
-        <tag>v8.0</tag>
+        <tag>v9.0</tag>
     </scm>
 
     <issueManagement>
@@ -39,7 +39,7 @@
             <dependency>
                 <groupId>de.cismet</groupId>
                 <artifactId>cismet-ext-bom</artifactId>
-                <version>8.0</version>
+                <version>9.0</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -49,8 +49,8 @@
     <dependencies>
         <!-- BEGIN: managed dependencies -->
         <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-1.2-api</artifactId>
         </dependency>
         <!-- END: managed dependencies -->
     </dependencies>
