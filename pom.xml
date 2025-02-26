@@ -10,7 +10,7 @@
 
     <groupId>de.cismet.commons</groupId>
     <artifactId>cismap-scale-generator</artifactId>
-    <version>8.1-SNAPSHOT</version>
+    <version>9.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>cismap Scale Image Generator</name>
